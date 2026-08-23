@@ -8,6 +8,7 @@ Thank you for checking out.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [1528-shuffle-string](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -33,6 +34,7 @@ Thank you for checking out.
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0709-to-lower-case) |
+| [1528-shuffle-string](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Two Pointers
 |  |
