@@ -18,4 +18,8 @@ Thank you for checking out.
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
