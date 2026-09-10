@@ -39,5 +39,10 @@ Thank you for checking out.
 ## Two Pointers
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
