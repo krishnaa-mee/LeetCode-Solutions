@@ -35,6 +35,7 @@ Thank you for checking out.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0709-to-lower-case](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -72,5 +73,10 @@ Thank you for checking out.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
