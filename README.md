@@ -28,6 +28,7 @@ Thank you for checking out.
 | ------- |
 | [0007-reverse-integer](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Thank you for checking out.
 | [0021-merge-two-sorted-lists](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -81,4 +83,12 @@ Thank you for checking out.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
