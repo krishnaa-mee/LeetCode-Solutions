@@ -11,6 +11,7 @@ Thank you for checking out.
 | [0088-merge-sorted-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1528-shuffle-string](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -26,6 +27,7 @@ Thank you for checking out.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
@@ -104,4 +106,28 @@ Thank you for checking out.
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0704-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
