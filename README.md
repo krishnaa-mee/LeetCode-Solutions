@@ -9,6 +9,7 @@ Thank you for checking out.
 | ------- |
 | [0001-two-sum](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1528-shuffle-string](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -32,6 +33,7 @@ Thank you for checking out.
 | [0007-reverse-integer](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -52,6 +54,7 @@ Thank you for checking out.
 | [0088-merge-sorted-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
