@@ -46,6 +46,7 @@ Thank you for checking out.
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -59,6 +60,7 @@ Thank you for checking out.
 | [0189-rotate-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Linked List
@@ -97,6 +99,7 @@ Thank you for checking out.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
