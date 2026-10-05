@@ -45,6 +45,7 @@ Thank you for checking out.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0709-to-lower-case) |
@@ -55,6 +56,7 @@ Thank you for checking out.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0189-rotate-array) |
