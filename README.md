@@ -22,6 +22,7 @@ Thank you for checking out.
 | [0001-two-sum](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
@@ -37,6 +38,7 @@ Thank you for checking out.
 | [0009-palindrome-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 ## Sliding Window
@@ -63,6 +65,7 @@ Thank you for checking out.
 | [0141-linked-list-cycle](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -93,6 +96,7 @@ Thank you for checking out.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
