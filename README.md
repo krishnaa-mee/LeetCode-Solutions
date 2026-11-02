@@ -11,6 +11,7 @@ Thank you for checking out.
 | [0088-merge-sorted-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0503-next-greater-element-ii](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
@@ -107,6 +108,7 @@ Thank you for checking out.
 | [0144-binary-tree-preorder-traversal](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0946-validate-stack-sequences](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 ## Bracket Sequences
 |  |
@@ -212,4 +214,8 @@ Thank you for checking out.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
