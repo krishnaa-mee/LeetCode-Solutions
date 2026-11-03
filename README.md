@@ -12,6 +12,7 @@ Thank you for checking out.
 | [0189-rotate-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -27,6 +28,7 @@ Thank you for checking out.
 | [0141-linked-list-cycle](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
@@ -34,6 +36,7 @@ Thank you for checking out.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
