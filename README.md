@@ -10,6 +10,7 @@ Thank you for checking out.
 | [0001-two-sum](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -144,6 +145,7 @@ Thank you for checking out.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -248,4 +250,8 @@ Thank you for checking out.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
