@@ -11,6 +11,7 @@ Thank you for checking out.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -143,6 +144,7 @@ Thank you for checking out.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0704-binary-search) |
