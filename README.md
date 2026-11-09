@@ -22,6 +22,7 @@ Thank you for checking out.
 | [0442-find-all-duplicates-in-an-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1528-shuffle-string](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/1528-shuffle-string) |
@@ -186,6 +187,7 @@ Thank you for checking out.
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 ## Tree
 |  |
@@ -258,4 +260,5 @@ Thank you for checking out.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
