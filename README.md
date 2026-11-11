@@ -10,6 +10,7 @@ Thank you for checking out.
 | [0001-two-sum](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -191,6 +192,7 @@ Thank you for checking out.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 ## Tree
@@ -262,6 +264,7 @@ Thank you for checking out.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
