@@ -81,6 +81,7 @@ Thank you for checking out.
 | [0709-to-lower-case](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [3813-vowel-consonant-score](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Thank you for checking out.
 | [0059-spiral-matrix-ii](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
+| [3813-vowel-consonant-score](https://github.com/krishnaa-mee/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
 ## Tree
 |  |
 | ------- |
